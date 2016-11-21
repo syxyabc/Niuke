@@ -16,12 +16,12 @@ public class 复杂链表的复制 {
 	    }
 	}
 	*/
-	    public RandomListNode Clone(RandomListNode pHead)
+	/*    public RandomListNode Clone(RandomListNode pHead)
 	    {
 	        
 	    }
 
-	
+	*/
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
